@@ -1,6 +1,6 @@
 # hexagram30/registration
 
-*TBD*
+*Account registration functionality for use by hexagram30 projects*
 
 [![][logo]][logo-large]
 

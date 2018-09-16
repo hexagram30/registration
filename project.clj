@@ -16,7 +16,7 @@
        "\u001B[35m]\u001B[33m λ\u001B[m=> "))
 
 (defproject hexagram30/registration "0.1.0-SNAPSHOT"
-  :description "TBD"
+  :description "Account registration functionality for use by hexagram30 projects"
   :url "https://github.com/hexagram30/registration"
   :license {
     :name "Apache License, Version 2.0"
