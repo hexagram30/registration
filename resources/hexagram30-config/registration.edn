@@ -1,0 +1,6 @@
+{:registration {
+
+  }
+  :logging {
+    :level :trace
+    :nss [hxgm30]}}
