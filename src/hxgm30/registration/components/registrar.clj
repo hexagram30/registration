@@ -14,7 +14,20 @@
 ;;;   Registrar Component API   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;; TBD
+(defn create-user
+  [system]
+  (log/debug "Creating user ...")
+  :not-implemented)
+
+(defn reset-password
+  [system]
+  (log/debug "Resetting password ...")
+  :not-implemented)
+
+(defn reset-player-key
+  [system]
+  (log/debug "Resetting player key ...")
+  :not-implemented)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;   Component Lifecycle Implementation   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
